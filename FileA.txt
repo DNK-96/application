@@ -1,2 +1,2 @@
 This is file A
-Some changes happing
+Some changes happing again
